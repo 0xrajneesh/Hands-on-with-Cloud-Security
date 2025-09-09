@@ -44,17 +44,6 @@ Below are the key tools provided by **AWS, Microsoft Azure, Google Cloud (GCP)**
 ---
 
 ## 🆓 Open-Source TDIR Tools
-- [**Wazuh**](https://wazuh.com) – Open-source SIEM & XDR platform with threat detection and response  
-- [**TheHive**](https://thehive-project.org) – Open-source incident response platform (IRP)  
-- [**Cortex**](https://www.cortex-ia.org) – Analyze observables and automate threat response (integrates with TheHive)  
-- [**MISP (Malware Information Sharing Platform)**](https://www.misp-project.org) – Threat intelligence sharing and correlation  
-- [**Zeek (formerly Bro)**](https://zeek.org) – Network threat detection and monitoring  
-- [**Suricata**](https://suricata.io) – IDS/IPS engine for detecting intrusions and malicious traffic  
-- [**OSQuery**](https://osquery.io) – Endpoint detection and threat hunting with SQL-like queries  
-
----
-
-## 🆓 Open-Source TDIR Tools
 ### 1. Cloud Security Posture & Monitoring
 - [**Cloud Custodian**](https://cloudcustodian.io) – Policy-as-code tool for managing security, compliance, and governance in AWS, Azure, and GCP  
 - [**Prowler**](https://github.com/prowler-cloud/prowler) – Multi-cloud security auditing, CIS benchmarks, and incident readiness checks  
